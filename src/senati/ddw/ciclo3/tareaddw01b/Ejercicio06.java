@@ -2,7 +2,7 @@ package senati.ddw.ciclo3.tareaddw01b;
 
 import java.util.Scanner;
 
-public class Ejercicio006 {
+public class Ejercicio06 {
 
 	private static Scanner sc;
 

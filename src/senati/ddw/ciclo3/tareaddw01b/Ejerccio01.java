@@ -1,6 +1,6 @@
 package senati.ddw.ciclo3.tareaddw01b;
 
-public class Ejerccio0001 {
+public class Ejerccio01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
