@@ -1,6 +1,6 @@
 package senati.ddw.ciclo3.tareaddw01b;
 
-public class Ejercicio10 {
+public class Ejercicio010 {
 
 	
 		// TODO Auto-generated method stub

@@ -2,7 +2,7 @@ package senati.ddw.ciclo3.tareaddw01b;
 
 import javax.swing.JOptionPane;
 
-public class Ejercicio08 {
+public class Ejercicio8 {
 
 	
 		// TODO Auto-generated method stub
